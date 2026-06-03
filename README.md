@@ -124,7 +124,7 @@ I design and build **scalable, secure, and distributed systems** using modern so
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 ## 🎯 Current Focus
-```text
+
 ✔ Microservices Architecture
 ✔ Cloud-Native Systems
 ✔ DevOps Automation (CI/CD)
@@ -138,10 +138,11 @@ I design and build **scalable, secure, and distributed systems** using modern so
 ## 🏆 Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-Microservices-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20Kubernetes-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean-Code-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software_Engineering-Microservices-2A7FAA?style=for-the-badge&logo=spring-boot"/>
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-2496ED?style=for-the-badge&logo=jenkins"/>
+  <img src="https://img.shields.io/badge/Cloud-Docker_%7C_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/Clean-Code-38B2AC?style=for-the-badge&logo=readthedocs"/>
+  <img src="https://img.shields.io/badge/Microservices-Kafka-231F20?style=for-the-badge&logo=apache-kafka"/>
 </p>
 
 ---
@@ -155,10 +156,10 @@ I design and build **scalable, secure, and distributed systems** using modern so
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yassine-ben-fraj">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/YassineBenFraj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -169,7 +170,7 @@ I design and build **scalable, secure, and distributed systems** using modern so
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
   
-  💡 *"Engineering scalable systems, one commit at a time."*
+  ### 💡 *"Engineering scalable systems, one commit at a time."*
   
-  <img src="https://komarev.com/ghpvc/?username=YassineBenFraj&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=YassineBenFraj&style=for-the-badge&color=2A7FAA" />
 </div>
