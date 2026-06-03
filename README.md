@@ -125,11 +125,11 @@ I design and build **scalable, secure, and distributed systems** using modern so
 
 ## 🎯 Current Focus
 
-✔ Microservices Architecture
-✔ Cloud-Native Systems
-✔ DevOps Automation (CI/CD)
-✔ System Design & Scalability
-✔ Clean Code & Best Practices
+- ✔ Microservices Architecture
+- ✔ Cloud-Native Systems
+- ✔ DevOps Automation (CI/CD)
+- ✔ System Design & Scalability
+- ✔ Clean Code & Best Practices
 
 ---
 
