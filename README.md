@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Yassine Ben Fraj
 
-<!--
-**YassineBenFraj/YassineBenFraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer specializing in:
+- Java
+- Spring Boot
+- Angular
+- TypeScript
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Interested in:
+- Microservices Architecture
+- Cloud Computing
+- DevOps
+- Artificial Intelligence
+
+🚀 Always learning and building innovative software solutions.
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/votre-profil
+- Email: votre.email@example.com
