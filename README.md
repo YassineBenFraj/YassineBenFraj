@@ -1,72 +1,162 @@
-<!-- HEADER ANIMÉ -->
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Yassine Ben Fraj
+# 🚀 Yassine Ben Fraj
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer+Spring+Boot+%7C+Angular;Clean+Code+Enthusiast;Microservices+%26+Cloud+Explorer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Software%20Engineer%20%7C%20Full-Stack%20Developer&fontSize=28&fontColor=ffffff" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=800&lines=Spring+Boot+%7C+Angular+Developer;Microservices+Architect;DevOps+%7C+CI%2FCD+Enthusiast;Cloud-Native+Applications;Clean+Code+%26+Scalable+Systems" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ===================== ABOUT ===================== -->
 
-🎓 Software Engineering Student passionate about building **real-world scalable systems**
+## 🧠 About Me
 
-💻 Full-Stack Developer specialized in:
-- ☕ Java & Spring Boot
-- 🌐 Angular & TypeScript
-- 🔗 REST APIs & Microservices
-- 🗄️ SQL / Database Design
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-☁️ Currently exploring:
-- Cloud Computing (AWS / Docker)
-- DevOps & CI/CD pipelines
-- Software Architecture
-- AI integration in web apps
+🎓 Software Engineering Student at **ESPRIT**  
+💻 Full-Stack Developer specializing in **Spring Boot & Angular**
 
-💡 I enjoy turning complex problems into clean, efficient, and scalable solutions.
+I design and build **scalable, secure, and distributed systems** using modern software engineering practices.
+
+💡 Passionate about:
+- Microservices Architecture
+- Cloud-Native Applications
+- DevOps & CI/CD Automation
+- Clean Code & Software Design Patterns
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚙️ Tech Arsenal
+
+### 🧑‍💻 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,symfony,nodejs,express,hibernate" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,ts,js,html,css,sass,tailwind,bootstrap" />
+</p>
+
+### 🧠 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,linux,nginx" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
----
+<!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineBenFraj&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBenFraj&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YassineBenFraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBenFraj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Current Focus
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YassineBenFraj&theme=react-dark&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+## 💼 Featured Projects
+
+### 🎟️ Event Ticketing Platform
+Full-stack event booking system
+
+✔ Spring Boot REST APIs  
+✔ Angular frontend  
+✔ JWT Authentication  
+✔ MySQL database  
+
+---
+
+### 🏥 KidneyCare – Microservices System
+Distributed healthcare platform
+
+✔ Spring Boot Microservices  
+✔ Kafka messaging  
+✔ Docker & Kubernetes  
+✔ CI/CD with Jenkins  
+✔ Monitoring (Prometheus & Grafana)  
+
+---
+
+### 🛍️ E-Commerce Platform
+Secure online shopping system
+
+✔ Symfony backend  
+✔ Stripe payment integration  
+✔ User & Admin dashboard  
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🎯 Current Focus
 
 ```text
 ✔ Microservices Architecture
-✔ Cloud-Native Applications
-✔ Clean Code & Design Patterns
-✔ Scalable Backend Systems
+✔ Cloud-Native Systems
+✔ DevOps Automation (CI/CD)
+✔ System Design & Scalability
+✔ Clean Code & Best Practices
+
+<!-- ===================== BADGES ===================== -->
+
+🏆 Highlights
+<p align="center">
+<img src="https://img.shields.io/badge/Software%20Engineering-Microservices-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-CI%2FCD-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20Kubernetes-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean-Code-orange?style=for-the-badge"/> </p>
+
+<!-- ===================== CONTACT ===================== -->
+
+🌍 Connect With Me
+<p align="center">
+<a href="mailto:yassinebenfraj9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/yassine-ben-fraj">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a>
+<a href="https://github.com/YassineBenFraj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+💡 “Engineering scalable systems, one commit at a time.”
+<img src="https://komarev.com/ghpvc/?username=YassineBenFraj&style=for-the-badge&color=blue" /> </div> ```
